@@ -1,1 +1,2 @@
-9222761748:AAECpnyV9tnhTVuI8k_6d4cBHKF5qOdwLmU
+
+TOKEN = os.environ["BOT_TOKEN"]
